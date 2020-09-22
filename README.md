@@ -1,7 +1,5 @@
 # tongda_getshell
 
-# HW2020
-
 ## 通达OA 11.6 任意文件上传
 
 ## 前台getshell
